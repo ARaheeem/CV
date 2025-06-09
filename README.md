@@ -1,2 +1,4 @@
-# CV
-[Abdul Warraich Cv (2).docx](https://github.com/user-attachments/files/20657676/Abdul.Warraich.Cv.2.docx)
+
+## 📄 Resume
+Check out my CV: [Download Here](https://github.com/YourUsername/YourRepo/raw/main/Abdul_Warraich_CV.pdf)
+
